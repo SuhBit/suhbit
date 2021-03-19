@@ -1,0 +1,8 @@
+{
+  "name": "Suhbit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "f27b419b"
+}
