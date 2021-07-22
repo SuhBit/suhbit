@@ -90,7 +90,7 @@ table {
 
         &:hover,
         &:focus {
-          color: #fff !important;
+          color: #242424 !important;
         }
 
         &.disabled {
@@ -100,12 +100,12 @@ table {
       }
 
       &:hover {
-        color: #fff !important;
+        color: #242424 !important;
         background: $default-primary;
       }
 
       &.current {
-        color: #fff !important;
+        color: #242424 !important;
         background: $default-primary;
 
         &:hover {

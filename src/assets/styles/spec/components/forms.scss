@@ -79,7 +79,7 @@
 }
 
 .checkbox-primary input[type="checkbox"]:checked + label::after {
-  color: #fff;
+  color: #242424;
 }
 
 .checkbox-danger input[type="checkbox"]:checked + label::before {
@@ -139,7 +139,7 @@
   margin-left: -20px;
   border: 1px solid #cccccc;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: #242424;
   -webkit-transition: border 0.15s ease-in-out;
   -o-transition: border 0.15s ease-in-out;
   transition: border 0.15s ease-in-out;
